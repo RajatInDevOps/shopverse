@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Written by DevSandbox when it prepares a workspace.
+.devsandbox/
+
+# DevSandbox Generated Files
+.devsandbox/generated.lock
+.devsandbox/runtime/
+.kubeconfig-jenkins
